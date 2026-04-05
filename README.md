@@ -239,12 +239,6 @@ More expressive, multi-dimensional representations are needed for robust disaste
 
 ---
 
-##  License
-
-MIT License (or your choice)
-
----
-
 ## 🙌 Acknowledgements
 
 * xBD / xView2 dataset creators
